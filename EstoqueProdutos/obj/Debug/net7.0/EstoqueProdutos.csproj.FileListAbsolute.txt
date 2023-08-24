@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\bin\Debug\net7.0\EstoqueProdutos.exe
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\bin\Debug\net7.0\EstoqueProdutos.deps.json
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\bin\Debug\net7.0\EstoqueProdutos.runtimeconfig.json
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\bin\Debug\net7.0\EstoqueProdutos.dll
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\bin\Debug\net7.0\EstoqueProdutos.pdb
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\EstoqueProdutos.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\EstoqueProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\EstoqueProdutos.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\EstoqueProdutos.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\EstoqueProdutos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\EstoqueProdutos.dll
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\refint\EstoqueProdutos.dll
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\EstoqueProdutos.pdb
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\EstoqueProdutos.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#\Seção 4\EstoqueProdutos\obj\Debug\net7.0\ref\EstoqueProdutos.dll

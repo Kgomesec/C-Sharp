@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\bin\Debug\net7.0\idades.exe
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\bin\Debug\net7.0\idades.deps.json
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\bin\Debug\net7.0\idades.runtimeconfig.json
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\bin\Debug\net7.0\idades.dll
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\bin\Debug\net7.0\idades.pdb
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\idades.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\idades.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\idades.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\idades.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\idades.dll
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\refint\idades.dll
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\idades.pdb
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\idades.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#\EXERCICIOS\idades\obj\Debug\net7.0\ref\idades.dll

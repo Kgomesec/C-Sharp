@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\Cotacao.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\Cotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\Cotacao.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\Cotacao.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\Cotacao.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\bin\Debug\net7.0\Cotacao.exe
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\bin\Debug\net7.0\Cotacao.deps.json
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\bin\Debug\net7.0\Cotacao.runtimeconfig.json
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\bin\Debug\net7.0\Cotacao.dll
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\bin\Debug\net7.0\Cotacao.pdb
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\Cotacao.dll
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\refint\Cotacao.dll
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\Cotacao.pdb
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\Cotacao.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#\Seção 4\EXERCICIOS\Cotacao\obj\Debug\net7.0\ref\Cotacao.dll

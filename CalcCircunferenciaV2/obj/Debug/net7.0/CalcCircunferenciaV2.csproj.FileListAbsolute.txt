@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\bin\Debug\net7.0\CalcCircunferenciaV2.exe
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\bin\Debug\net7.0\CalcCircunferenciaV2.deps.json
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\bin\Debug\net7.0\CalcCircunferenciaV2.runtimeconfig.json
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\bin\Debug\net7.0\CalcCircunferenciaV2.dll
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\bin\Debug\net7.0\CalcCircunferenciaV2.pdb
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\CalcCircunferenciaV2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\CalcCircunferenciaV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\CalcCircunferenciaV2.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\CalcCircunferenciaV2.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\CalcCircunferenciaV2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\CalcCircunferenciaV2.dll
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\refint\CalcCircunferenciaV2.dll
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\CalcCircunferenciaV2.pdb
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\CalcCircunferenciaV2.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#\Seção 4\CalcCircunferenciaV2\obj\Debug\net7.0\ref\CalcCircunferenciaV2.dll

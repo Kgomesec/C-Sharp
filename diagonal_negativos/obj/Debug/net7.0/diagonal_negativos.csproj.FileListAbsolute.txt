@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\diagonal_negativos.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\diagonal_negativos.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\diagonal_negativos.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\bin\Debug\net7.0\diagonal_negativos.exe
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\bin\Debug\net7.0\diagonal_negativos.deps.json
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\bin\Debug\net7.0\diagonal_negativos.runtimeconfig.json
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\bin\Debug\net7.0\diagonal_negativos.dll
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\bin\Debug\net7.0\diagonal_negativos.pdb
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\diagonal_negativos.dll
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\refint\diagonal_negativos.dll
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\diagonal_negativos.pdb
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\diagonal_negativos.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#\EXERCICIOS\diagonal_negativos\obj\Debug\net7.0\ref\diagonal_negativos.dll

@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\FormulaDeHeron.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\FormulaDeHeron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\FormulaDeHeron.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\FormulaDeHeron.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\FormulaDeHeron.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\bin\Debug\net7.0\FormulaDeHeron.exe
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\bin\Debug\net7.0\FormulaDeHeron.deps.json
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\bin\Debug\net7.0\FormulaDeHeron.runtimeconfig.json
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\bin\Debug\net7.0\FormulaDeHeron.dll
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\bin\Debug\net7.0\FormulaDeHeron.pdb
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\FormulaDeHeron.dll
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\refint\FormulaDeHeron.dll
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\FormulaDeHeron.pdb
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\FormulaDeHeron.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#\Seção 4\FormulaDeHeron\obj\Debug\net7.0\ref\FormulaDeHeron.dll
